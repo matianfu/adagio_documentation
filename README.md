@@ -1,4 +1,4 @@
 adagio_documentation
 ====================
 
-This repo is used for documentation only.
+This repo is used for project management and documentation only. Check wikis and issues.
